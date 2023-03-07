@@ -1,0 +1,15 @@
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net6.0\ArgumentsAndParameters.exe
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net6.0\ArgumentsAndParameters.deps.json
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net6.0\ArgumentsAndParameters.runtimeconfig.json
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net6.0\ArgumentsAndParameters.dll
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\bin\Debug\net6.0\ArgumentsAndParameters.pdb
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\ArgumentsAndParameters.csproj.AssemblyReference.cache
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\ArgumentsAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\ArgumentsAndParameters.AssemblyInfoInputs.cache
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\ArgumentsAndParameters.AssemblyInfo.cs
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\ArgumentsAndParameters.csproj.CoreCompileInputs.cache
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\ArgumentsAndParameters.dll
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\refint\ArgumentsAndParameters.dll
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\ArgumentsAndParameters.pdb
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\ArgumentsAndParameters.genruntimeconfig.cache
+C:\Users\nxt06\source\repos\Functions\ArgumentsAndParameters\obj\Debug\net6.0\ref\ArgumentsAndParameters.dll
